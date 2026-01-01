@@ -1,16 +1,177 @@
-## Hi there 👋
+# 👨‍💻 Ernesto Yago Caldas Zapata
 
-<!--
-**yagocz/yagocz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black)](https://yagocz.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-caldas/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yagocz)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yagocz0206@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**📍 Lima, Perú** | **📞 +51 994 146 110** | **🎂 2 de Junio, 2005**
+
+</div>
+
+---
+
+## 🚀 Sobre mí
+
+Soy **estudiante de Ciencias de la Computación** en la Universidad Peruana de Ciencias Aplicadas (UPC), actualmente en mi 7mo ciclo. Me apasiona el desarrollo de software y la resolución de problemas complejos mediante código eficiente.
+
+💡 **Me caracterizo por:**
+- 🧠 Capacidad de análisis y pensamiento crítico
+- 🤝 Trabajo en equipo y colaboración efectiva
+- 📚 Aprendizaje autónomo y constante actualización
+- 🎯 Orientación a resultados y soluciones eficientes
+
+🎯 **Busco integrarme** a equipos de desarrollo donde pueda aportar valor, continuar creciendo profesionalmente y contribuir al avance tecnológico de la organización.
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### 💻 Lenguajes de Programación
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### 🔧 Backend & Bases de Datos
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### 🤖 IA & Machine Learning
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+
+### 🛠️ Herramientas & Otros
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel_Avanzado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+---
+
+## 🎯 Proyectos Destacados
+
+### 🏍️ [SafeMoto - Landing Page](https://yagocz.github.io/safemoto-landing/)
+**Sistema de monitoreo inteligente para motocicletas**
+
+> Landing page informativa y responsive para un sistema de seguridad vehicular innovador.
+
+- ✅ Diseño moderno y experiencia de usuario optimizada
+- 📱 Responsive design para todos los dispositivos
+- 🎨 Presentación clara de funcionalidades: monitoreo en tiempo real, alertas instantáneas, rastreo GPS
+
+**Tech Stack:** `HTML5` `CSS3` `JavaScript`
+
+---
+
+### 🔤 [λóγος (Logos) - Lenguaje de Programación](https://github.com/kaneeqi/logos-lang)
+**DSL para Lógica Proposicional**
+
+> Compilador completo de un lenguaje de dominio específico para evaluar expresiones lógicas y simular circuitos digitales.
+
+**Características principales:**
+- 🧮 Evaluación de expresiones lógicas y booleanas
+- 🔧 Compilador completo: análisis léxico, sintáctico y semántico
+- ⚡ Generación de LLVM IR con ejecución JIT
+- 🔌 Simulación de circuitos: Half Adder, Full Adder, multiplexores, comparadores
+- 📊 Tabla de símbolos y manejo robusto de errores
+
+**Tech Stack:** `C++17` `ANTLR4` `LLVM` `CMake` `Clang/GCC`
+
+---
+
+### 🚗 [Sistema de Detección y OCR de Placas Vehiculares](https://github.com/mavicCode/Proyecto-placas-vehiculares.git)
+**Visión por Computadora e Inteligencia Artificial**
+
+> Aplicación web que combina deep learning y OCR para detectar y leer placas vehiculares automáticamente.
+
+**Características principales:**
+- 🎯 Detección automática con YOLO11 (última versión)
+- 📝 Extracción de texto mediante EasyOCR
+- 🖼️ Preprocesamiento avanzado de imágenes
+- 📊 Visualización en tiempo real con bounding boxes y niveles de confianza
+
+**Tech Stack:** `Python` `Flask` `YOLO11` `EasyOCR` `OpenCV` `NumPy` `HTML/CSS/JS`
+
+---
+
+## 🎓 Educación y Certificaciones
+
+### 🏫 Universidad Peruana de Ciencias Aplicadas (UPC)
+**Ciencias de la Computación** | 7mo Ciclo
+- 📅 Marzo 2024 - Presente
+- 📍 Lima, Perú
+
+### 📜 Certificaciones
+
+| Certificación | Institución | Fecha |
+|---------------|-------------|-------|
+| 🏆 Scrum Fundamentals | UPC | Marzo 2024 |
+| 📊 Excel Avanzado | IDAT | Marzo 2024 |
+| 📊 Excel Intermedio | IDAT | Febrero 2024 |
+
+---
+
+## 💼 Habilidades Blandas
+
+```text
+✓ Lógica de programación y resolución de problemas
+✓ Desarrollo de aplicaciones web full-stack
+✓ Manejo de bases de datos relacionales y no relacionales
+✓ Colaboración en entornos ágiles (Scrum)
+✓ Comunicación efectiva y trabajo interdisciplinario
+✓ Capacidad de aprendizaje autónomo
+✓ Gestión del tiempo y alta responsabilidad
+✓ Pensamiento analítico y atención al detalle
+```
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yagocz&show_icons=true&theme=dark&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_color=FFD700)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yagocz&layout=compact&theme=dark&bg_color=000000&title_color=FFD700&text_color=FFFFFF&border_color=FFD700)
+
+</div>
+
+---
+
+## 📫 Contacto
+
+<div align="center">
+
+¿Interesado en colaborar o tienes alguna oportunidad? ¡Hablemos!
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FFD700?style=for-the-badge)](https://yagocz.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/yago-caldas/)
+[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge)](mailto:yagocz0206@gmail.com)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge)](https://github.com/yagocz)
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ Si te gusta mi trabajo, no dudes en darle una estrella a mis repositorios ⭐**
+
+*"El código es poesía en movimiento"* 💻✨
+
+</div>
