@@ -61,7 +61,7 @@ Soy **estudiante de Ciencias de la Computación** en la Universidad Peruana de C
 
 ## 🎯 Proyectos Destacados
 
-### ⚖️ [LegalBot - Asistente Legal con IA](https://legal-bot.vercel.app)
+### ⚖️ [LegalBot - Asistente Legal con IA](https://legal-bot-two.vercel.app/)
 **IA Generativa & RAG (Retrieval-Augmented Generation)**
 
 > Plataforma avanzada que democratiza el acceso a la justicia mediante IA especializada en la legislación peruana.
