@@ -7,29 +7,29 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yagocz)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yagocz0206@gmail.com)
 
-**📍 Lima, Perú** | **📞 +51 994 146 110** | **🎂 2 de Junio, 2005**
+**📍 Lima, Peru** | **📞 +51 994 146 110** | **🎂 June 2, 2005**
 
 </div>
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-Soy **estudiante de Ciencias de la Computación** en la Universidad Peruana de Ciencias Aplicadas (UPC), actualmente en mi 7mo ciclo. Me apasiona el desarrollo de software y la resolución de problemas complejos mediante código eficiente.
+I am a **Computer Science student** at the Peruvian University of Applied Sciences (UPC), currently in my 7th academic term. I am passionate about software development and solving complex problems through clean, efficient, and scalable code.
 
-💡 **Me caracterizo por:**
-- 🧠 Capacidad de análisis y pensamiento crítico
-- 🤝 Trabajo en equipo y colaboración efectiva
-- 📚 Aprendizaje autónomo y constante actualización
-- 🎯 Orientación a resultados y soluciones eficientes
+💡 **Key strengths:**
+- 🧠 Strong analytical and critical thinking skills  
+- 🤝 Teamwork and effective collaboration  
+- 📚 Self-directed learning and continuous improvement  
+- 🎯 Results-oriented mindset focused on efficient solutions  
 
-🎯 **Busco integrarme** a equipos de desarrollo donde pueda aportar valor, continuar creciendo profesionalmente y contribuir al avance tecnológico de la organización.
+🎯 **My goal** is to join development teams where I can add value, continue growing professionally, and contribute to technological innovation within the organization.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
-### 💻 Lenguajes de Programación
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -44,14 +44,14 @@ Soy **estudiante de Ciencias de la Computación** en la Universidad Peruana de C
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 🔧 Backend & Bases de Datos
+### 🔧 Backend & Databases
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### 🤖 IA & Machine Learning
+### 🤖 AI & Machine Learning
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -59,88 +59,80 @@ Soy **estudiante de Ciencias de la Computación** en la Universidad Peruana de C
 
 ---
 
-## 🎯 Proyectos Destacados
+## 🎯 Featured Projects
 
-### ⚖️ [LegalBot - Asistente Legal con IA](https://legal-bot-two.vercel.app/)
-**IA Generativa & RAG (Retrieval-Augmented Generation)**
+### ⚖️ LegalBot – AI Legal Assistant
+**Generative AI & RAG (Retrieval-Augmented Generation)**  
+https://legal-bot-two.vercel.app/
 
-> Plataforma avanzada que democratiza el acceso a la justicia mediante IA especializada en la legislación peruana.
+- PDF analysis and real-time legal document processing  
+- Judicial simulation with argument evaluation  
+- Semantic retrieval using Pinecone vector databases  
+- Full-stack cloud deployment with React, Next.js, FastAPI, and PostgreSQL  
 
-**Características principales:**
-- 📂 **Análisis de PDFs**: Procesamiento de documentos legales en tiempo real para extraer contexto dinámico.
-- 👨‍⚖️ **Simulación Judicial**: Modo "Juez" para practicar audiencias con evaluación de argumentos legales.
-- 🧠 **Arquitectura RAG**: Recuperación semántica de leyes mediante base de datos vectorial Pinecone.
-- ☁️ **Despliegue Cloud Full-Stack**: Integridad total entre React/Next.js y FastAPI con persistencia en PostgreSQL (Supabase).
-
-**Tech Stack:** `React` `Next.js` `FastAPI` `PostgreSQL` `Pinecone` `TypeScript` `Python`
+**Tech Stack:** React · Next.js · FastAPI · PostgreSQL · Pinecone · TypeScript · Python
 
 ---
 
-### 🔤 [λóγος (Logos) - Lenguaje de Programación](https://github.com/kaneeqi/logos-lang)
-**DSL para Lógica Proposicional**
+### 🔤 λóγος (Logos) – Programming Language
+**DSL for Propositional Logic**  
+https://github.com/kaneeqi/logos-lang
 
-> Compilador completo de un lenguaje de dominio específico para evaluar expresiones lógicas y simular circuitos digitales.
+- Logical and boolean expression evaluation  
+- Full compiler pipeline (lexical, syntax, semantic)  
+- LLVM IR generation with JIT execution  
+- Digital circuit simulation and robust error handling  
 
-**Características principales:**
-- 🧮 Evaluación de expresiones lógicas y booleanas
-- 🔧 Compilador completo: análisis léxico, sintáctico y semántico
-- ⚡ Generación de LLVM IR con ejecución JIT
-- 🔌 Simulación de circuitos: Half Adder, Full Adder, multiplexores, comparadores
-- 📊 Tabla de símbolos y manejo robusto de errores
-
-**Tech Stack:** `C++17` `ANTLR4` `LLVM` `CMake` `Clang/GCC`
+**Tech Stack:** C++17 · ANTLR4 · LLVM · CMake · Clang/GCC
 
 ---
 
-### 🚗 [Sistema de Detección y OCR de Placas Vehiculares](https://github.com/mavicCode/Proyecto-placas-vehiculares.git)
-**Visión por Computadora e Inteligencia Artificial**
+### 🚗 Vehicle License Plate Detection & OCR System
+**Computer Vision & AI**  
+https://github.com/mavicCode/Proyecto-placas-vehiculares.git
 
-> Aplicación web que combina deep learning y OCR para detectar y leer placas vehiculares automáticamente.
+- Automatic detection using YOLO11  
+- OCR with EasyOCR  
+- Advanced image preprocessing  
+- Real-time bounding box visualization  
 
-**Características principales:**
-- 🎯 Detección automática con YOLO11 (última versión)
-- 📝 Extracción de texto mediante EasyOCR
-- 🖼️ Preprocesamiento avanzado de imágenes
-- 📊 Visualización en tiempo real con bounding boxes y niveles de confianza
-
-**Tech Stack:** `Python` `Flask` `YOLO11` `EasyOCR` `OpenCV` `NumPy` `HTML/CSS/JS`
+**Tech Stack:** Python · Flask · YOLO11 · EasyOCR · OpenCV · NumPy · HTML/CSS/JS
 
 ---
 
-## 🎓 Educación y Certificaciones
+## 🎓 Education & Certifications
 
-### 🏫 Universidad Peruana de Ciencias Aplicadas (UPC)
-**Ciencias de la Computación** | 7mo Ciclo
-- 📅 Marzo 2024 - Presente
-- 📍 Lima, Perú
+### 🏫 Peruvian University of Applied Sciences (UPC)
+**Computer Science – 7th Term**  
+March 2024 – Present | Lima, Peru
 
-### 📜 Certificaciones
+### 📜 Certifications
 
-| Certificación | Institución | Fecha |
-|---------------|-------------|-------|
-| 🏆 Scrum Fundamentals | UPC | Marzo 2024 |
-| 📊 Excel Avanzado | IDAT | Marzo 2024 |
-| 📊 Excel Intermedio | IDAT | Febrero 2024 |
+| Certification | Institution | Date |
+|---------------|------------|------|
+| Scrum Fundamentals | UPC | March 2024 |
+| Advanced Excel | IDAT | March 2024 |
+| Intermediate Excel | IDAT | February 2024 |
 
 ---
 
-## 💼 Habilidades Blandas
+## 💼 Soft Skills
 
 ```text
-✓ Lógica de programación y resolución de problemas
-✓ Desarrollo de aplicaciones web full-stack
-✓ Manejo de bases de datos relacionales y no relacionales
-✓ Colaboración en entornos ágiles (Scrum)
-✓ Comunicación efectiva y trabajo interdisciplinario
-✓ Capacidad de aprendizaje autónomo
-✓ Gestión del tiempo y alta responsabilidad
-✓ Pensamiento analítico y atención al detalle
+✓ Programming logic and problem-solving
+✓ Full-stack web development
+✓ Relational and non-relational databases
+✓ Agile teamwork (Scrum)
+✓ Effective communication
+✓ Self-directed learning
+✓ Time management and responsibility
+✓ Analytical thinking and attention to detail
 ```
 ## 📫 Contacto
 
 <div align="center">
 
-¿Interesado en colaborar o tienes alguna oportunidad? ¡Hablemos!
+Interested in collaborating or have an opportunity? Let’s talk!
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FFD700?style=for-the-badge)](https://yagocz.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/yago-caldas/)
@@ -153,8 +145,8 @@ Soy **estudiante de Ciencias de la Computación** en la Universidad Peruana de C
 
 <div align="center">
 
-**⭐ Si te gusta mi trabajo, no dudes en darle una estrella a mis repositorios ⭐**
+⭐ If you like my work, feel free to star my repositories ⭐
 
-*"El código es poesía en movimiento"* 💻✨
+"Code is poetry in motion" 💻✨
 
 </div>
