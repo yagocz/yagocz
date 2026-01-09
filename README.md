@@ -34,47 +34,45 @@ Soy **estudiante de Ciencias de la Computación** en la Universidad Peruana de C
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### 🔧 Backend & Bases de Datos
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### 🤖 IA & Machine Learning
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-
-### 🛠️ Herramientas & Otros
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel_Avanzado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
 ## 🎯 Proyectos Destacados
 
-### 🏍️ [SafeMoto - Landing Page](https://yagocz.github.io/safemoto-landing/)
-**Sistema de monitoreo inteligente para motocicletas**
+### ⚖️ [LegalBot - Asistente Legal con IA](https://legal-bot.vercel.app)
+**IA Generativa & RAG (Retrieval-Augmented Generation)**
 
-> Landing page informativa y responsive para un sistema de seguridad vehicular innovador.
+> Plataforma avanzada que democratiza el acceso a la justicia mediante IA especializada en la legislación peruana.
 
-- ✅ Diseño moderno y experiencia de usuario optimizada
-- 📱 Responsive design para todos los dispositivos
-- 🎨 Presentación clara de funcionalidades: monitoreo en tiempo real, alertas instantáneas, rastreo GPS
+**Características principales:**
+- 📂 **Análisis de PDFs**: Procesamiento de documentos legales en tiempo real para extraer contexto dinámico.
+- 👨‍⚖️ **Simulación Judicial**: Modo "Juez" para practicar audiencias con evaluación de argumentos legales.
+- 🧠 **Arquitectura RAG**: Recuperación semántica de leyes mediante base de datos vectorial Pinecone.
+- ☁️ **Despliegue Cloud Full-Stack**: Integridad total entre React/Next.js y FastAPI con persistencia en PostgreSQL (Supabase).
 
-**Tech Stack:** `HTML5` `CSS3` `JavaScript`
+**Tech Stack:** `React` `Next.js` `FastAPI` `PostgreSQL` `Pinecone` `TypeScript` `Python`
 
 ---
 
@@ -138,21 +136,6 @@ Soy **estudiante de Ciencias de la Computación** en la Universidad Peruana de C
 ✓ Gestión del tiempo y alta responsabilidad
 ✓ Pensamiento analítico y atención al detalle
 ```
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yagocz&show_icons=true&theme=dark&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_color=FFD700)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yagocz&layout=compact&theme=dark&bg_color=000000&title_color=FFD700&text_color=FFFFFF&border_color=FFD700)
-
-</div>
-
----
-
 ## 📫 Contacto
 
 <div align="center">
