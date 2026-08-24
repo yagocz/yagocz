@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-Fullstack Developer and AI Platform Engineer with **2+ years of experience building and operating production software**: web and cross-platform applications, REST APIs, LLM-based conversational platforms and DevOps infrastructure on Azure, AWS and on-premise servers.
+Fullstack Developer and AI Platform Engineer with **3+ years of experience building and operating production software**: web and cross-platform applications, REST APIs, LLM-based conversational platforms and DevOps infrastructure on Azure, AWS and on-premise servers.
 
 I work end to end — architecture design, SQL Server and PostgreSQL modeling and optimization, hardware and third-party system integration, continuous delivery and day-to-day operation of business-critical services. Currently studying **Computer Science at UPC** (Universidad Peruana de Ciencias Aplicadas) while working on production systems for clients in Peru and the US.
 
